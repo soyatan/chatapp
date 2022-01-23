@@ -1,0 +1,17 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Realtime chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Necati Soyata",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jade": "^1.11.0",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {}
+}
